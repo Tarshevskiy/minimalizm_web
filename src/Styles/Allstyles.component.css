@@ -1,0 +1,22 @@
+a {
+    color: black;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 3rem;
+    text-decoration: none;
+  }
+  
+  a.active {
+    color: orangered;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color: #fff;
+    padding: 10px;
+    text-decoration: none;
+    font-size: 3rem;
+    text-decoration: none;
+    background-color: brown;
+  }
+
